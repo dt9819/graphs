@@ -1,2 +1,2 @@
-# graphs
-All graph algorithms implimentation in python
+# Graphs
+All graph algorithms implimentation in Python with visualization
