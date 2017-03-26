@@ -563,7 +563,7 @@ class Graph(object):
             stepX += 50
    
 
-    def primMST(self,src):
+    #def primMST(self,src):
         
                
         
